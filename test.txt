@@ -1,5 +1,8 @@
 Jim, Sales
-Andy, Sales
+Hidy, Sales
 Kelly, Customer Service
 Creed, Quality Assurance
 Michael, Manager
+OscarAccontingOscar, Acconting
+Oscar, Acconting
+Oscar, Acconting
